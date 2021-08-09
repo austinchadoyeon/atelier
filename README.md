@@ -12,6 +12,7 @@
 1. [Technologies](#Technologies)
 1. [Features](#Features)
 1. [Contributions](#Contributions)
+1. [License](#License)
 
 ## Usage
 
@@ -58,3 +59,7 @@ This web app was created using the following:
 - Raelyn Cheung Sutton worked primarily on the questions and answers portion of the web app, including the ability to ask new questions and answer current ones.
 
 - Scott Hansen worked primarily on the ratings and reviews portion, including the rendering of stars and ability to submit new reviews.
+
+## License
+
+Distributed under the ISC license.
