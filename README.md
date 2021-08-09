@@ -40,7 +40,7 @@ This web app was created using the following:
 
 ## Features
 
-![]('client/src/assets/atelier gif.gif')
+![](client/src/assets/atelier.gif)
 
 - Product information is provided through an external RESTful API, which requires a unique read-only individual key to access the information
 - Users are able to view the selection of products on the top navigation bar
